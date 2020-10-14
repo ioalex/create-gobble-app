@@ -1,0 +1,24 @@
+{
+  "name": "create-gobble-app",
+  "version": "1.0.0",
+  "description": "Set up a Gobble web project quickly using one command",
+  "main": "src/index.js",
+  "bin": {
+    "create-gobble-app": "src/index.js",
+    "gobble": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioalex/create-gobble-app.git"
+  },
+  "keywords": [],
+  "author": "Alex He <alex@alexhe.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ioalex/create-gobble-app/issues"
+  },
+  "homepage": "https://github.com/ioalex/create-gobble-app#readme"
+}
